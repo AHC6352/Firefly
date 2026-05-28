@@ -1,3 +1,17 @@
+---
+title: "1111111111111"
+published: 2026-05-28
+updated: 2026-05-28
+description: "这里放一些重要的信息"
+image: ./cover.jpg
+tags: [one]
+category: one
+draft: true
+author: anan
+---
+
+
+
 # 关于我 / About Me
 
 你好，这里是anan
