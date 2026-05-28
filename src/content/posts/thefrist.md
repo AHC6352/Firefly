@@ -1,8 +1,8 @@
 ---
 title:"The Start"
 published:2026-05-28
-updata:2026-05-28
-discription:这是我的第一篇文章
+updated:2026-05-28
+description:这是我的第一篇文章
 image:./cover.jpg
 tags:[one]
 category:one
