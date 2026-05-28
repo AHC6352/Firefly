@@ -3,7 +3,7 @@ title:"The Start"
 published:2026-05-28
 updata:2026-05-28
 discription:这是我的第一篇文章
-image: ./cover.jpg
+image:./cover.jpg
 tags:[one]
 category:one
 draft:false
