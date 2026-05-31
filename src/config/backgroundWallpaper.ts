@@ -70,17 +70,17 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否允许用户通过控制面板切换横幅标题显示
 			switchable: true,
 			// 主页横幅主标题
-			title: "Lovely firefly!",
+			title: "ananblog",
 			// 主页横幅主标题字体大小
 			titleSize: "3.8rem",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
+				"栖于赤茧，彼时方歇",
+				"天穹碎裂，以此身坠",
+				"星河噤声，长眠未醒",
+				"萤火幽微，抬眼将望",
+				"夜未入梦，我自流光",
+				"明日已定，终得盛开",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
@@ -90,7 +90,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 				// 打字机关闭 → 每次刷新随机显示一条副标题
 				enable: true,
 				// 打字速度（毫秒）
-				speed: 100,
+				speed: 110,
 				// 删除速度（毫秒）
 				deleteSpeed: 50,
 				// 完全显示后的暂停时间（毫秒）
