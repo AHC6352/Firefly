@@ -3,7 +3,7 @@ title: 这个博客的开始
 published: 2026-05-31
 pinned: false
 description: "记录这个博客的一些配置"
-image: "./cover.avif"
+image: "./图1.png"
 tags: ["Firefly", "博客", "Markdown", "使用指南"]
 category: "博客指南"
 draft: true
