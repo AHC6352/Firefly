@@ -73,15 +73,9 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 			{
 				name: "Gitee",
 				url: "https://gitee.com/CuteLeaf/Firefly",
-				external: true,
+				external: false,
 				icon: "fa7-brands:gitee",
-			},
-			{
-				name: "QQ交流群",
-				url: "https://qm.qq.com/q/ZGsFa8qX2G",
-				external: true,
-				icon: "fa7-brands:qq",
-			},
+			},		
 		],
 	});
 
