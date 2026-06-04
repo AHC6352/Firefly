@@ -44,7 +44,7 @@ export const friendsConfig: FriendLink[] = [
 	{
 		title: "嘉心糖Jaxon",
 		imgurl: "https://jiaxin404.top/_astro/head.jjGSLDjo_1hXoSt.webp",
-		desc: "I’m a student at Guilin University of Aerospace Technology, majoring in Electronic Information Engineering.",
+		desc: "心有山海，静而无边.",
 		siteurl: "https://jiaxin404.top/",
 		tags: ["blog"],
 		weight: 11,
