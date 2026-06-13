@@ -4,7 +4,6 @@ published: 2026-05-28
 updated: 2026-05-28
 pinned: true  #是否置顶
 description: "这是我的第一篇文章"
-image: ./cover.jpg
 tags: [one]
 category: one
 draft: false
