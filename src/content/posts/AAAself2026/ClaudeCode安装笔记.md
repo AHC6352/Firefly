@@ -6,7 +6,7 @@ pinned: false  #是否置顶
 description: "在 Windows 上通过 CC-Switch 配置 Claude Code，接入 DeepSeek API 进行开发"
 tags: [Claude Code, AI工具, 开发环境]
 category: AI工具
-draft: true
+draft: false
 author: anan
 ---
 
