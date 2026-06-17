@@ -17,11 +17,11 @@ author: anan
 [id]: https://www.robstride.com/products/eduLite05  "EDULITE05"
  [EDULITE05电机官网][id] 
 
-[id2]: https://github.com/RobStride "跳转github"
- [github][id2]
+[id]: https://github.com/RobStride "跳转github"
+ [github][id]
 
-[id3]: https://gitee.com/robstride "跳转gitee"
-[gitee][id3]
+[id]: https://gitee.com/robstride "跳转gitee"
+[gitee][id]
 
 ## 一、电机基础信息
 
@@ -75,8 +75,8 @@ CAN 总线比特率 1Mbps
 
 ## 三、上位机
 
-[id4]:https://gitee.com/robstride/MotorStudio/releases/tag/V26.03.01 "跳转gitee下载"
-[上位机下载][id4]
+[id]:https://gitee.com/robstride/MotorStudio/releases/tag/V26.03.01 "跳转gitee下载"
+[上位机下载][id]
 
 使用说明请参考手册
 
