@@ -1,5 +1,5 @@
 ---
-title: "Edulite 05 电机开发"
+title: "Edulite 05 电机笔记"
 published: 2026-06-07
 updated: 2026-06-07
 pinned: false  #是否置顶
